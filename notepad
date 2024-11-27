@@ -1,0 +1,8 @@
+-button to repo
+<a href={repoLink} target="_blank">
+              <Button
+                styles="mt-10 inline-flex items-center justify-center"
+                text="Star"
+                icon={FaGithub}
+              /> 
+            </a> 
